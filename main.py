@@ -1,1 +1,1 @@
-print ("Ola! My Coconuts!")
+print ("Ola! My friends!")
